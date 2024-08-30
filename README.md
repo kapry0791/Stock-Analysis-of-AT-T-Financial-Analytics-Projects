@@ -1,2 +1,2 @@
-# Financial-Analytics-Projects
-Stock Analysis of AT&T
+# Stock Analysis of AT&T Financial-Analytics-Projects
+
